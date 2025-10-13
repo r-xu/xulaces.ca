@@ -1,6 +1,6 @@
 @use "12columns" as *;
 @use "globals" as *;
-@import url('https://fonts.googleapis.com/css?family=Barlow:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,500,700');
 
 * {
   box-sizing: border-box;
@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Inconsolata', sans-serif;
   font-size: 1.125rem;
   line-height: 1.5;
   color: $gray;
