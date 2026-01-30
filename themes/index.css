@@ -5,7 +5,15 @@
   width: 50%;
 }
 
-a:hover {
+body {
+        background-color: #47AFE8;
+    }
+
+p {
+      color:white;
+    }
+
+img:hover {
   background-color: yellow;
   width:60%
 }
